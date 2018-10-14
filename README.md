@@ -8,7 +8,7 @@ different backoffs and number of retries.
 To install run:
 
 ```
-go install github.com/jonstacks/backoff/cmd/...
+go get -u github.com/jonstacks/backoff/cmd/...
 ```
 
 ## Commands
