@@ -1,5 +1,7 @@
 # README
 
+![CI](https://github.com/jonstacks/backoff/workflows/CI/badge.svg)
+
 CLI commands for running a command that could fail multiple times with
 different backoffs and number of retries.
 
